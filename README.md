@@ -4,7 +4,7 @@ This is the PyTorch implementation for paper "Disentangled Hypergraph Neural Net
 ## Introduction
 
 
-<img src='DiGGS_figure.png'>
+<img src='model.png'>
 
 ## Environment:
 The codes of DiGGS are implemented and tested under the following development environment:
